@@ -34,4 +34,5 @@ sudo yum install gitlab-runner
 sudo gitlab-runner register --url http://{url or the ip address of the gitlab instance} \
 --registration-token {REGISTRATION_TOKEN from cicd option}
 ```
+after that , we choose a tag name for the gitlab-runner which is used for gitlab-ci.yml file if wanted to specify a tag for a specific job.  
 and then we select the runner executer.etc,SHELL if you want to be run on the shell itself ,or DOCKER if wanted to be run on docker container and...
