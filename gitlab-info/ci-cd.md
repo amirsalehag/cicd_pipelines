@@ -6,3 +6,5 @@ Press [link](https://about.gitlab.com/blog/2016/07/29/the-basics-of-gitlab-ci/) 
 
 ---
 Press [link](https://docs.gitlab.com/ee/ci/pipelines/job_artifacts.html#create-job-artifacts) Understanding the artifact build and its paths keyword for gitlab-ci.yml.
+
+---
